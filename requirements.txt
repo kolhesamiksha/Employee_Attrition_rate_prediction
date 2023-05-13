@@ -1,0 +1,9 @@
+streamlit==1.14.0
+streamlit_option_menu==0.3.2
+utils==1.0.1
+numpy==1.24.1
+pandas==1.5.3
+plotly==5.14.1
+pickle
+hydralit_components==1.0.10
+matplotlib
